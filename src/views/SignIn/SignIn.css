@@ -1,0 +1,29 @@
+.SignIn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    width: 100%;
+    margin: 0 0 60px;
+    color: #0c1922;
+}
+
+form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+}
+
+a {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.MuiFormControl-root {
+    margin: 20px;
+}
