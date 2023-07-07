@@ -43,6 +43,6 @@
     "postcss-mixins": "^6.2.2",
     "postcss-nested": "^4.1.2",
     "postcss-nesting": "^7.0.1",
-    "stylelint": "^10.1.0"
+    "stylelint": "^15.10.1"
   }
 }
